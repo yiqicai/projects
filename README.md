@@ -42,7 +42,7 @@ A collection of academic projects and assignments from my university studies.
 ## major project 2 : Motorcycle Adaptive Driving Beam (ADB) Lighting System
 **【結合視覺辨識與 OpenVINO 加速的摩托車智慧型 ADB 照明系統】**
 
-## 專案簡介
+### 專案簡介
 本專題設計一套 **摩托車智慧型自適應車燈系統 (ADB)**，利用 **YOLOv11m** 進行物體偵測，並透過 **OpenVINO** 在 Intel CPU 平台進行推論加速，依據偵測結果即時調整車燈亮度，避免眩光同時維持駕駛視線清晰。  
 該專題入選 **CYCU × Intel × ASUS AI PC OpenVINO 專題競賽**。
 
