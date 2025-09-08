@@ -2,7 +2,7 @@
 A collection of academic projects and assignments from my university studies.
 
 ## major project 1 : Real-Time Intelligent Traffic Alert System
-**多模態感測與邊緣運算的即時智慧交通警示系統**
+**【多模態感測與邊緣運算的即時智慧交通警示系統】**
 
 ### 專案簡介
 本專題提出一個整合 **影像辨識、聲音辨識** 及 **邊緣運算** 的智慧交通警示系統，針對行人保護與緊急事故應變進行優化，提升都市交通安全。  
@@ -21,7 +21,6 @@ A collection of academic projects and assignments from my university studies.
   - MobileNetV3-Large — 場景分類
 - **工具**：OpenCV、PyTorch、OpenVINO、UART
 
-系統架構圖
 ![alt text](image.png)
 
 ### 我的貢獻
@@ -40,10 +39,8 @@ A collection of academic projects and assignments from my university studies.
 
 ---
 
-## major project 2 : Motorcycle ADB Lighting System 
-
-# Motorcycle Adaptive Driving Beam (ADB) Lighting System
-**結合視覺辨識與 OpenVINO 加速的摩托車智慧型 ADB 照明系統**
+## major project 2 : Motorcycle Adaptive Driving Beam (ADB) Lighting System
+**【結合視覺辨識與 OpenVINO 加速的摩托車智慧型 ADB 照明系統】**
 
 ## 專案簡介
 本專題設計一套 **摩托車智慧型自適應車燈系統 (ADB)**，利用 **YOLOv11m** 進行物體偵測，並透過 **OpenVINO** 在 Intel CPU 平台進行推論加速，依據偵測結果即時調整車燈亮度，避免眩光同時維持駕駛視線清晰。  
@@ -60,7 +57,6 @@ A collection of academic projects and assignments from my university studies.
 - **演算法**：畫面四區域分割 + 亮度等級決策
 - **工具**：OpenVINO Toolkit、PyTorch、UART、PWM 控制
 
-系統架構圖
 ![alt text](image-1.png)
 
 ### 我的貢獻
@@ -75,4 +71,3 @@ A collection of academic projects and assignments from my university studies.
 
 OpenVino 加速對照圖 
 ![alt text](image-2.png)
-
